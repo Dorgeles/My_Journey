@@ -4,12 +4,16 @@ A full stack appplication to store all the place you been there before
 
 TODO
 
-* [ ] Setup Server 
+* [x] Setup Server 
 
-   * [ ] Install Dependencies
-   * [ ] Install/Setup Linter
-   * [ ] Setup Express App 
-   * [ ] Setup Not Found and errors midlewares 
+   * [x] Install Dependencies 
+        * express 
+        * cors => for the communication through network
+        * morgan =>
+        * helmet => for adding security headers 
+   * [x] Install/Setup Linter
+   * [x] Setup Express App 
+   * [x] Setup Not Found and errors midlewares 
 
 * [ ] Model DB
 
@@ -33,3 +37,14 @@ TODO
 
 * [ ] List all logs Entries 
 
+
+# things in the log 
+
+    * title - Text 
+    * Start Date - Date
+    * End date - Date 
+    * Latitude - Number 
+    * Longitude - Number
+    * Description - Text 
+    * Image -Text URL
+    * rating - Number between 1 and 10 
