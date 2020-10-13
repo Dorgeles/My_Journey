@@ -4,7 +4,7 @@ A full stack appplication to store all the place you been there before
 
 TODO
 
-[] Setup Server 
+[*] Setup Server 
 
     [] Install Dependencies
     [] Install/Setup Linter
