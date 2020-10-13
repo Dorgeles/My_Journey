@@ -4,16 +4,16 @@ A full stack appplication to store all the place you been there before
 
 TODO
 
-[ ] Setup Server 
+[] Setup Server 
 
-    [ ] Install Dependencies
-    [ ] Install/Setup Linter
-    [ ] Setup Express App 
-    [ ] Setup Not Found and errors midlewares 
+    [] Install Dependencies
+    [] Install/Setup Linter
+    [] Setup Express App 
+    [] Setup Not Found and errors midlewares 
 
-[ ] Model DB
+[] Model DB
 
-    ( ) What will we store ?
+    () What will we store ?
 
 [ ] Setup Mongoose Model(s)
 
