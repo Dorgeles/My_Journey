@@ -15,23 +15,23 @@ TODO
    * [x] Setup Express App 
    * [x] Setup Not Found and errors midlewares 
 
-* [ ] Model DB
+* [x] Model DB
 
    * What will we store ?
 
-* [ ] Setup Mongoose Model(s)
+* [x] Setup Mongoose Model(s)
 
-* [ ] POST /logs
+* [x] POST /logs
 
-    *( )* Create a new log entry 
+    [x] Create a new log entry 
 
-* [ ] GET /logs 
+* [x] GET /logs 
 
     * List all log Entries 
 
-* [ ] Setup Client 
+* [x] Setup Client 
 
-* [ ] Create Form to add a new entry 
+* [x] Create Form to add a new entry 
 
 * [ ] Setup Map SDK on Client 
 
