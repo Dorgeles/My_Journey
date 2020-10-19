@@ -23,7 +23,7 @@ TODO
 
 * [x] POST /logs
 
-    [x] Create a new log entry 
+    * Create a new log entry 
 
 * [x] GET /logs 
 
@@ -33,9 +33,9 @@ TODO
 
 * [x] Create Form to add a new entry 
 
-* [ ] Setup Map SDK on Client 
+* [x] Setup Map SDK on Client 
 
-* [ ] List all logs Entries 
+* [x] List all logs Entries 
 
 
 # things in the log 
