@@ -8,8 +8,7 @@ router.get('/', async (req, res, next)=>{
         const entries = await LogEntry.find();
         res.json(entries);        
     } catch (error) {
-        console.log(error); o
-        
+        console.log(error);        
         next(error);
     }
 });

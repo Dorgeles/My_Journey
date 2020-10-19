@@ -15,13 +15,14 @@ const logs = require(".//APIs//logs")
 const app = express();
 mongoose.connect("mongodb://localhost/history",
      {useUnifiedTopology: true,
-        useNewUrlParser: true},   
+        useNewUrlParser: true}, 
+        console.log("database connected")  
 );
 
 app.use(morgan('common'));
 app.use(helmet());
 app.use(cors({
-    origin: process.env.CORS_ORIGIN, 
+    origin: "http://localhost:3000", 
 })); 
 app.use(express.json());
 
